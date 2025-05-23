@@ -14,27 +14,27 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin-top: 40px;">
 
-  <div style="background: rgba(59, 130, 246, 0.15); border-radius: 20px; box-shadow: 0 10px 20px rgba(59, 130, 246, 0.2); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    <h4 style="color: #1e40af; margin-bottom: 8px;">🔭 Currently</h4>
+  <div style="background: #eff6ff; border-radius: 20px; box-shadow: 0 10px 15px rgba(59, 130, 246, 0.3); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <h4 style="color: #1e40af; margin-bottom: 8px;">🔭 Currently Working On</h4>
     <p style="font-weight: 600; color: #1e3a8a;">POS & Inventory Systems</p>
   </div>
 
-  <div style="background: rgba(59, 130, 246, 0.15); border-radius: 20px; box-shadow: 0 10px 20px rgba(59, 130, 246, 0.2); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    <h4 style="color: #1e40af; margin-bottom: 8px;">🌱 Learning</h4>
+  <div style="background: #eff6ff; border-radius: 20px; box-shadow: 0 10px 15px rgba(59, 130, 246, 0.3); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <h4 style="color: #1e40af; margin-bottom: 8px;">🌱 Currently Learning</h4>
     <p style="font-weight: 600; color: #1e3a8a;">Laravel, Tailwind CSS, TypeScript, React JS</p>
   </div>
 
-  <div style="background: rgba(59, 130, 246, 0.15); border-radius: 20px; box-shadow: 0 10px 20px rgba(59, 130, 246, 0.2); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <div style="background: #eff6ff; border-radius: 20px; box-shadow: 0 10px 15px rgba(59, 130, 246, 0.3); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <h4 style="color: #1e40af; margin-bottom: 8px;">💬 Ask Me About</h4>
     <p style="font-weight: 600; color: #1e3a8a;">Laravel, Blade, JavaScript, UI Design, React</p>
   </div>
 
-  <div style="background: rgba(59, 130, 246, 0.15); border-radius: 20px; box-shadow: 0 10px 20px rgba(59, 130, 246, 0.2); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <div style="background: #eff6ff; border-radius: 20px; box-shadow: 0 10px 15px rgba(59, 130, 246, 0.3); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <h4 style="color: #1e40af; margin-bottom: 8px;">📫 Reach Me</h4>
-    <p><a href="mailto:mohamadfaiz21@gmail.com" style="color:#1d4ed8; font-weight: 700; text-decoration: none;">mohamadfaiz21@gmail.com</a></p>
+    <p><a href="mailto:mohamadfaiz21@gmail.com" style="color:#2563eb; font-weight: 700; text-decoration: none;">mohamadfaiz21@gmail.com</a></p>
   </div>
 
-  <div style="background: rgba(59, 130, 246, 0.15); border-radius: 20px; box-shadow: 0 10px 20px rgba(59, 130, 246, 0.2); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <div style="background: #eff6ff; border-radius: 20px; box-shadow: 0 10px 15px rgba(59, 130, 246, 0.3); padding: 24px; width: 280px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <h4 style="color: #1e40af; margin-bottom: 8px;">🌍 Location</h4>
     <p style="font-weight: 600; color: #1e3a8a;">Indonesia</p>
   </div>
